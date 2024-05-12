@@ -1,38 +1,54 @@
-# WholeBrainedIntelligence (WBI) Technology - Commercial Use License
+Commercial Use License for WholeBrainedIntelligence (WBI) Technology
+This Commercial Use License Agreement ("Agreement") is made and entered into as of 5/12/2024, by and between Reece Colton Dixon, residing at 9500 Castle Hwy, Pleasureville KY, 40057 ("Licensor"), and you, the licensee ("Licensee").
 
-## Introduction
+1. Grant of License
 
-This Commercial Use License Agreement ("Agreement") governs the use of the WholeBrainedIntelligence (WBI) technology (the "Software") developed by Reece Colton Dixon ("Licensor"). By using, copying, modifying, distributing, or displaying the Software for commercial purposes, you ("Licensee") agree to be bound by the terms and conditions of this Agreement.
+a. The Licensor grants the Licensee a non-exclusive, worldwide, royalty-bearing license to use, reproduce, modify, prepare derivative works of, distribute, and display the WBI technology (the "Software") for commercial purposes.
 
-### Grant of License
+2. Revenue Sharing
 
-Under the terms of this Agreement, the Licensor grants the Licensee a non-exclusive, worldwide, royalty-bearing license to use, reproduce, modify, prepare derivative works of, distribute, and display the Software for commercial purposes. This license includes the right to negotiate specific terms and conditions with the Licensor through a separate contractual agreement.
+a. Revenue Sharing Tiers:
 
-### Modifications and Negotiations
+* The Licensee agrees to pay the Licensor a royalty based on the gross revenue generated from the use of the WBI technology. The royalty rate will be determined by the following tiers:
 
-The Licensor reserves the right to modify the terms and conditions of this Agreement at any time without prior notice. Licensees may negotiate specific terms and conditions with the Licensor through a separate contractual agreement. Any modifications or negotiated terms will supersede the terms of this Agreement.
+* Tier 1:
 
-### Attribution
+* Applies when the licensee's gross quarterly revenue generated from the WBI technology is between $0 and $500,000
+* Revenue sharing percentage for Tier 1: 15%
 
-The Licensee agrees to include the following copyright notice in all copies or substantial portions of the Software:
-Copyright 2024 Reece Colton Dixon <REECE.C.DIXON@LIVE.COM>. All rights reserved.
+* Tier 2:
 
-### Disclaimer of Warranty
+* Applies when gross quarterly revenue is between $500,000 and $10 Million
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+* Revenue sharing percentage for Tier 2: 20%
 
-### Termination
+* Tier 3:
 
-This Agreement may be terminated by either party upon written notice to the other party. The Agreement will also terminate automatically if the Licensee breaches any of its terms and conditions. Upon termination, the Licensee must cease all use, reproduction, modification, distribution, and display of the Software.
+* Applies when gross quarterly revenue exceeds $10 Million+
+* Revenue sharing percentage for Tier 3: 30%
 
-### Governing Law
+b. Financial Reporting:
+
+* The Licensee agrees to provide the Licensor with quarterly financial reports verifying the gross revenue generated from the WBI technology. The reports should be submitted in a mutually agreed-upon format within [Number] days of the end of each quarter.
+
+3. Milestone-Based Bonuses
+
+a. The Licensee may agree to pay the Licensor additional milestone-based bonuses upon achieving specific development or commercialization milestones related to the WBI technology. These milestones and corresponding bonuses should be clearly defined in a separate agreement between the parties with a minimum of $500,000 or 7.5% of startup profits whichever is higher.
+
+4. Term and Termination
+
+a. This Agreement will be effective as of the date first written above and shall remain in effect for a period of [Number] years (the "Term"). The Agreement may be renewed for additional terms upon mutual written consent of both parties.
+
+b. This Agreement may be terminated by either party upon written notice to the other party. The Agreement will also terminate automatically if the Licensee breaches any of its terms and conditions. Upon termination, the Licensee must cease all use, reproduction, modification, distribution, and display of the Software.
+
+5. Governing Law
 
 This Agreement shall be governed by and construed in accordance with the laws of the State of Kentucky without regard to its conflict of laws provisions.
 
-### Entire Agreement
+6. Entire Agreement
 
 This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous communications, representations, or agreements, whether oral or written.
 
-### Contact
+7. Contact
 
-For any questions regarding this license or to negotiate specific terms and conditions, please contact Reece Colton Dixon at <reece.c.dixon@live.com>
+For any questions regarding this license, please contact Reece Colton Dixon at reece.c.dixon@live.com.
