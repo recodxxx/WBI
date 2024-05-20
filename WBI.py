@@ -1,6 +1,16 @@
+"""
+WholeBrainedIntelligence (WBI) Technology
+Author: Reece "Colton" Dixon
+Date: 2024
+Email: reece.c.dixon@live.com
+"""
+
 from modules import (SelfAwarenessModule, HeuristicPatternRecognitionModule, CounterfactualSimulatorModule, 
                      ValueAffectionModule, EmpathicInteractionModule, GlobalWorkspaceTheoryModule, 
                      LearningFromExperienceModule)
+
+def watermark():
+    print("This code is part of the WholeBrainedIntelligence (WBI) project by Reece 'Colton' Dixon.")
 
 class WBI:
     def __init__(self, modules):
@@ -14,7 +24,7 @@ class WBI:
         self.adaptation = LearningFromExperienceModule()
 
         self.modules = dict(zip(['con', 'int', 'ima', 'emp', 'soc'], [self.consciousness, self.intuition, self.imagination,
-                                self.emotion, self.sociality]))
+                                 self.emotion, self.sociality]))
         self.global_workspace = list(modules.values())
 
     def perceive(self, stimulus):
@@ -30,3 +40,6 @@ class WBI:
         executed_choice = self.modules[list(self.modules.keys())[self.integration.focus]].implement(choice)
         self.adaptation.learn(executed_choice)
         return executed_choice
+
+# Add the watermark for identification
+watermark()
