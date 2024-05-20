@@ -4,15 +4,46 @@
 
 Please refer to the table below to determine which versions of the WholeBrainedIntelligence (WBI) project are currently supported with security updates:
 
-| Version | Supported          |
-| ------- | ------------------ |    |
+| Version  | Supported          |
+| -------- | ------------------ |
+| 1.0.0    | Yes                |
 
 ## Reporting a Vulnerability
 
 If you discover a security vulnerability within the WBI project, please report it by contacting us at [reece.c.dixon@live.com](mailto:reece.c.dixon@live.com).
 
-Please include detailed information about the vulnerability and any steps to reproduce it. We will acknowledge receipt of your report promptly and provide regular updates on the status of the vulnerability investigation.
+### Information to Include
 
-Once the vulnerability is confirmed, we will work to address it promptly and release a security patch as soon as possible. If the vulnerability is deemed to be valid and accepted, we will credit you for your responsible disclosure and collaboration in improving the security of the WBI project.
+- A detailed description of the vulnerability.
+- Steps to reproduce the vulnerability.
+- Potential impact of the vulnerability.
+
+We will acknowledge receipt of your report within 48 hours and provide regular updates on the status of the investigation.
+
+### Process
+
+1. **Acknowledgment**: We will acknowledge receipt of your report promptly.
+2. **Investigation**: Our team will investigate the reported vulnerability.
+3. **Resolution**: If the vulnerability is confirmed, we will develop and test a security patch.
+4. **Notification**: We will notify you once the patch is released and, if applicable, provide you with a pre-release version for verification.
+5. **Credit**: If the vulnerability is valid and accepted, we will credit you for your responsible disclosure in the release notes, unless you prefer to remain anonymous.
+
+### Commitment to Security Updates
+
+We are committed to maintaining the security of the WBI project. While we are continuously improving our security processes, we aim to:
+
+- Regularly monitor and apply security patches.
+- Use automated tools to help identify and address vulnerabilities.
+- Keep our users informed about security updates and best practices.
+
+## Seeking Expert Collaboration
+
+To further enhance the security of the WBI project, we are open to collaboration with certified security professionals. We are particularly interested in partnering with individuals who have:
+
+- Proven expertise in cybersecurity.
+- Relevant certifications (e.g., CISSP, CISM, CEH).
+- Experience with AI and software security.
+
+If you are a certified security professional and are interested in contributing to the security of the WBI project, please contact us at [reece.c.dixon@live.com](mailto:reece.c.dixon@live.com). We value the expertise and dedication of professionals who can help us ensure the highest security standards for our project.
 
 Thank you for helping to keep the WBI project secure.
