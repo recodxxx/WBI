@@ -1,3 +1,7 @@
+from modules import (SelfAwarenessModule, HeuristicPatternRecognitionModule, CounterfactualSimulatorModule, 
+                     ValueAffectionModule, EmpathicInteractionModule, GlobalWorkspaceTheoryModule, 
+                     LearningFromExperienceModule)
+
 class WBI:
     def __init__(self, modules):
         self.consciousness = SelfAwarenessModule()
@@ -26,12 +30,3 @@ class WBI:
         executed_choice = self.modules[list(self.modules.keys())[self.integration.focus]].implement(choice)
         self.adaptation.learn(executed_choice)
         return executed_choice
-
-wbi = WBI([SelfAwarenessModule(), HeuristicPatternRecognitionModule(),
-             CounterfactualSimulatorModule(), ValueAffectionModule(),
-             EmpathicInteractionModule(), GlobalWorkspaceTheoryModule(),
-             LearningFromExperienceModule()])
-
-input_stimulus = collect_sensor_information()
-desired_goals = formulate_aspirations()
-selected_action = wbi.perceive(input_stimulus).decide(desired_goals).execute()
