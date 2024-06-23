@@ -1,6 +1,6 @@
 # **Commercial Use License Agreement for WholeBrainedIntelligence (WBI) Technology**
 
-This Commercial Use License Agreement ("Agreement") is made and entered into as of [5/12/2024], by and between Reece "Colton" Dixon, residing at 9500 Castle Hwy, Pleasureville KY, 40057 ("Licensor"), and you, the licensee ("Licensee").
+This Commercial Use License Agreement ("Agreement") is made and entered into as of [5/12/2024], by and between Reece Dixon, of KY ("Licensor"), and you, the licensee ("Licensee").
 
 ## **1. Grant of License**
 
@@ -54,7 +54,7 @@ This Agreement constitutes the entire agreement between the parties with respect
 
 ## **7. Contact**
 
-For any questions regarding this license, please contact Reece "Colton" Dixon at <reece.c.dixon@live.com>.
+For any questions regarding this license, please contact Reece "Colton" Dixon at <reece.dixon@quantascript.com>.
 
 ## **8. Updates and Notifications**
 
