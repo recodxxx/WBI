@@ -102,14 +102,14 @@ The Licensor reserves the right to modify these terms and conditions at any time
 
 10.Contact Information
 
-For any questions regarding these terms and conditions, please contact Reece "Colton" Dixon at <reece.c.dixon@live.com>.
+For any questions regarding these terms and conditions, please contact Reece Dixon at <info@quantascript.com>.
 
 ## Call for Professional Collaboration
 
 We are seeking experts in cybersecurity, AI development, data science, project management, technical writing, and UX design to join the WBI project. If you are interested, please see our Call for Professional Collaboration for more details.
 
 Contact Information
-Project Lead: Reece "Colton" Dixon
-Email: <reece.c.dixon@live.com>
+Project Lead: Reece Dixon
+Email: <info@quantascript.com>
 
 ## CALL_FOR_PROFESSIONALS.md
